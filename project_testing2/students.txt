@@ -1,0 +1,24 @@
+Plamen
+info
+93029
+6
+4 5 6 6 6 
+6 6 5 6 5 
+Hris
+info
+93029
+6
+4 3 5 6 6 
+3 4 5 6 5 
+Vasko
+info
+35677
+5
+5 5 5 5 5 
+4 3 4 6 6 
+Average success for group 5: 4.8
+Min success for group 5: 4.8
+Max success for group 5: 4.8
+Average success for group 6: 5.1
+Min success for group 6: 4.7
+Max success for group 6: 5.5
